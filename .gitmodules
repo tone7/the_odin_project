@@ -4,3 +4,6 @@
 [submodule "learning-area"]
 	path = learning-area
 	url = https://github.com/tone7/learning-area.git
+[submodule "js_practice/JavaScript30"]
+	path = js_practice/JavaScript30
+	url = git@github.com:tone7/JavaScript30.git
