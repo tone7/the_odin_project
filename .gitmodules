@@ -1,3 +1,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = https://github.com/tone7/rock-paper-scissors.git
+[submodule "learning-area"]
+	path = learning-area
+	url = https://github.com/tone7/learning-area.git
